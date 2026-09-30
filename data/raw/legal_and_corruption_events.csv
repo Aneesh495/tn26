@@ -1,0 +1,6 @@
+event_id,date,institution,title,impact_area,political_repercussion,electoral_salience_score
+CR_01,2023-06-14,Supreme Court / Enforcement Directorate,Arrest of V. Senthil Balaji in Cash-for-Jobs Case,"Karur, Kongu Belt, Electricity & Prohibition Dept",Persistent narrative of institutional corruption in DMK regime; cash seizures in Karur.,0.88
+CR_02,2024-06-20,Madras High Court / Special Investigation Team,Kallakurichi Illicit Methanol Tragedy (Over 65 Deaths),"Northern Tamil Nadu, Viluppuram, Kallakurichi",Severe public outrage regarding illegal liquor mafia nexus with local ruling party MLAs.,0.94
+CR_03,2024-09-15,Election Commission of India / Supreme Court,ECI Symbol Allocation and Dispute over Free Symbols for TVK,Statewide (All 234 ACs),TVK had to campaign without an established legacy symbol; common free symbol allotted across all seats.,0.79
+CR_04,2025-01-10,Madras High Court,TASMAC Revenue Monopolization and Public Interest Litigation,Statewide Women Voter Demographics,Catalyzed moral critique that state budget depended on alcohol revenue ruining lower-income families.,0.91
+CR_05,2025-08-22,Supreme Court of India,Rulings on Governor Assent to Bills and State Legislative Prerogative,"Chennai, Legal & Constitutional Academic Spheres","Federalism debate weaponized by DMK against BJP, but overshadowed by anti-incumbent domestic issues.",0.62
